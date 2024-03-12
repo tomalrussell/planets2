@@ -1,1 +1,2 @@
 Here's my other file, another_file.txt
+Here's another string of text.
